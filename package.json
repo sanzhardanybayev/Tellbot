@@ -1,0 +1,30 @@
+{
+  "name": "tellbot-telegram",
+  "version": "1.0.0",
+  "description": "This framework aims to simplify creation of Telegram bots by using OOP, MVC approaches and concepts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanzhardanybayev/Tellbot.git"
+  },
+  "keywords": [
+    "telegram",
+    "bots",
+    "nodejs",
+    "javascript",
+    "redux"
+  ],
+  "author": "Danybayev Sanzhar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanzhardanybayev/Tellbot/issues"
+  },
+  "homepage": "https://github.com/sanzhardanybayev/Tellbot#readme",
+  "dependencies": {
+    "colors": "^1.3.2",
+    "tellbot-framework": "^2.0.5"
+  }
+}
