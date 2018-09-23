@@ -1,3 +1,4 @@
+[![https://t.me/sanzhardanybayev](https://img.shields.io/badge/💬%20Telegram-sanzhardanybayev-blue.svg)](https://t.me/sanzhardanybayev)
 # Introduction
 
 This framework aims to simplify creation of Telegram bots by using OOP, MVC approaches and concepts.
