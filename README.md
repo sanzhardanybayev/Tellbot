@@ -1,4 +1,7 @@
 [![https://t.me/sanzhardanybayev](https://img.shields.io/badge/💬%20Telegram-sanzhardanybayev-blue.svg)](https://t.me/sanzhardanybayev)
+
+[![GitHub license](https://img.shields.io/github/license/sanzhardanybayev/Tellbot.svg)](https://github.com/sanzhardanybayev/Tellbot/blob/master/LICENSE)
+
 # Introduction
 
 This framework aims to simplify creation of Telegram bots by using OOP, MVC approaches and concepts.
