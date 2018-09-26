@@ -26,7 +26,7 @@ To run the bot you need to do the following steps:
 1.  Install all the packages
 
 ```
-npm init
+npm install
 ```
 2.  Update **config.js file** with your credentials
 
