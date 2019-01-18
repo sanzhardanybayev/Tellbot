@@ -1,0 +1,7 @@
+{
+  "docs": {
+    "Introduction": ["doc1"],
+    "Concepts": ["dive", "chats", "rooms", "topics", "redux", "actions", "buttons", "phoneCalls",  "layoutFactory", "doc3", "doc4", "doc5", "doc6"],
+    "API": ["doc7"]
+  }
+}
